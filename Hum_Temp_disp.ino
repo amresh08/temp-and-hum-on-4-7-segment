@@ -1,3 +1,5 @@
+// read the description on this link for pin connection
+// https://github.com/amresh08/temp-and-hum-on-4-7-segment/edit/main/README.md
 #include <DHT.h>
 
 #define DHTPIN 12
